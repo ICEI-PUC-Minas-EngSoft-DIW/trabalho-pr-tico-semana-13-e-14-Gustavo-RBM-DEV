@@ -9,15 +9,15 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Gustavo Rodrigues Barbara Moreira
+- Matricula:898623
+- Proposta de projeto escolhida: Temas e Conteúdos Associados
+- Breve descrição sobre seu projeto: Site de curiosidades e noticias a respeito de jogos e consoles antigos.
 
 **Print da tela com a implementação**
 
 << Coloque aqui uma breve explicação da implementação feita nessa etapa>>
 
-<<  COLOQUE A IMAGEM TELA 1 AQUI >>
+ ![alt text](<Captura de tela 2025-11-15 120753.png>)  
 
-<<  COLOQUE A IMAGEM TELA 2 AQUI >>
+  ![alt text](<Captura de tela 2025-11-15 120820.png>) 
